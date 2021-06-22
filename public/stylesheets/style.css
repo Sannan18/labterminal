@@ -1,6 +1,7 @@
 body {
   margin: 0% !important;
-  font: 14px "Playfair" !important;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
   background-color: honeydew !important;
 }
 
