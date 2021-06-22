@@ -43,7 +43,7 @@ app.use(function (err, req, res, next) {
 
 mongoose
   .connect(
-    "mongodb+srv://rimshaarif:123@labterminal.ksebx.mongodb.net/LabTerminal",
+    "mongodb://fa18-bse-050:123@labterminal-shard-00-00.5neuq.mongodb.net:27017,labterminal-shard-00-01.5neuq.mongodb.net:27017,labterminal-shard-00-02.5neuq.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-b1hqxu-shard-0&authSource=admin&retryWrites=true&w=majority",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
