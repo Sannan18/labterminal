@@ -32,8 +32,8 @@ h1 {
 
 .btn {
   background-color: white !important;
-  color: darkcyan !important;
-  border: 2px solid darkcyan !important;
+  color: rgb(0, 0, 0) !important;
+  border: 2px solid rgb(0, 0, 0) !important;
   margin-right: 30px;
 }
 
